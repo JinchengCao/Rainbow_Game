@@ -19,5 +19,4 @@ Good luck!!
 
 - Created by Jincheng Cao and Martha Trevino
 
-https://cloud.githubusercontent.com/assets/8760999/6631485/65f46796-c8fd-11e4-8826-f7946b2e434e.png
-https://cloud.githubusercontent.com/assets/8760999/6631483/6363d070-c8fd-11e4-9cc6-24e3033f0223.png
+![](https://cloud.githubusercontent.com/assets/8760999/6631485/65f46796-c8fd-11e4-8826-f7946b2e434e.png)![](https://cloud.githubusercontent.com/assets/8760999/6631483/6363d070-c8fd-11e4-9cc6-24e3033f0223.png)
